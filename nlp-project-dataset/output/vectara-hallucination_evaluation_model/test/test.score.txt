@@ -1,2 +1,0 @@
-agnostic_acc:0.77
-agnostic_rho:-0.6788999208187766
